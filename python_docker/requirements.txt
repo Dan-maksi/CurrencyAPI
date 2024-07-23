@@ -1,0 +1,6 @@
+websocket-client
+pandas
+pyarrow
+pyiceberg[s3fs,hive]
+boto3
+pyhive
